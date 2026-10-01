@@ -82,9 +82,16 @@ fun allUser(
                 val imageRes = when (user.id) {
                     1 -> R.drawable.aku
                     2 -> R.drawable.dia
-//                    3 -> R.drawable.user3
-//                    4 -> R.drawable.user4
-//                    5 -> R.drawable.user5
+                    3 -> R.drawable.merkurius
+                    4 -> R.drawable.venus
+                    5 -> R.drawable.bumi
+                    6 -> R.drawable.mars
+                    7 -> R.drawable.jupiter
+                    8 -> R.drawable.saturnus
+                    9 -> R.drawable.uranus
+                    10 -> R.drawable.neptunus
+                    11 -> R.drawable.pluto
+                    12 -> R.drawable.ceres
                     else -> R.drawable.aku
                 }
 
